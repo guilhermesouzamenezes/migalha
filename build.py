@@ -7,7 +7,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parent
-SOURCE = ROOT / "content" / "Migalha-ruby.md"
+SOURCE = ROOT / "Migalha-Guilherme-Menezes.md"
 OUTPUT = ROOT / "index.html"
 
 
@@ -111,8 +111,8 @@ def render() -> str:
       <p>Primeira publicação digital: 25 de julho de 2026.</p>
       <p>© 2026 Guilherme Menezes. Todos os direitos reservados.</p>
       <nav aria-label="Arquivos da obra">
-        <a href="files/Migalha-ruby.pdf">PDF</a>
-        <a href="content/Migalha-ruby.md">Markdown</a>
+        <a href="Migalha-Guilherme-Menezes.pdf">PDF</a>
+        <a href="Migalha-Guilherme-Menezes.md">Markdown</a>
         <span class="doi">DOI pendente</span>
       </nav>
     </footer>
