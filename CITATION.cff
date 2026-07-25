@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Para citar esta obra, use os dados abaixo."
+title: "Migalha"
+type: book
+authors:
+  - family-names: "Menezes"
+    given-names: "Guilherme"
+date-released: 2026-07-25
+version: "1.0.0"
+abstract: "Conto literário em edição digital com anotações ruby e microdiagramas tipográficos."

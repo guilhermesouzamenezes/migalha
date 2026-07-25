@@ -1,0 +1,197 @@
+@font-face {
+  font-family: "Liberation Serif";
+  src: local("Liberation Serif");
+  font-display: swap;
+}
+
+:root {
+  color-scheme: light;
+  --paper: #fff;
+  --ink: #171412;
+  --muted: #746b65;
+  --ruby: #701820;
+  --rule: #d8d0ca;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Liberation Serif", "Times New Roman", serif;
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  width: min(100% - 40px, 760px);
+  margin: 0 auto;
+  padding: 72px 0 96px;
+}
+
+.title-page {
+  margin-bottom: 76px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.author {
+  margin: 10px 0 68px;
+  font-size: 1.1rem;
+}
+
+blockquote {
+  width: min(78%, 520px);
+  margin: 0 0 0 auto;
+  padding: 0;
+  border: 0;
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+
+blockquote cite {
+  display: block;
+  margin-top: 10px;
+  font-style: normal;
+}
+
+article {
+  font-size: 1.125rem;
+  line-height: 1.92;
+  text-align: justify;
+  text-wrap: pretty;
+  hyphens: auto;
+}
+
+article p {
+  margin: 0 0 1.05em;
+}
+
+ruby {
+  ruby-align: center;
+  ruby-position: over;
+}
+
+rt {
+  color: var(--ruby);
+  font-family: "Liberation Serif", "Times New Roman", serif;
+  font-size: 0.64em;
+  font-weight: 400;
+  line-height: 1;
+  text-align: center;
+  white-space: pre;
+}
+
+ruby.dual {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 0.18em;
+}
+
+ruby.dual::before,
+ruby.dual::after,
+.cross-word::before {
+  position: absolute;
+  left: 50%;
+  color: var(--ruby);
+  font-size: 0.64em;
+  font-weight: 400;
+  line-height: 1;
+  white-space: nowrap;
+  transform: translateX(-50%);
+}
+
+ruby.dual::before {
+  content: attr(data-top);
+  bottom: 88%;
+}
+
+ruby.dual::after {
+  content: attr(data-bottom);
+  top: 86%;
+}
+
+.cross-word {
+  position: relative;
+  display: inline-block;
+}
+
+.cross-word::before {
+  content: "✝︎";
+  bottom: 88%;
+}
+
+footer {
+  margin-top: 82px;
+  padding-top: 24px;
+  border-top: 1px solid var(--rule);
+  color: var(--muted);
+  font-size: 0.86rem;
+  line-height: 1.5;
+}
+
+footer p {
+  margin: 0.35em 0;
+}
+
+footer nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-top: 16px;
+}
+
+footer a {
+  color: var(--ruby);
+  text-underline-offset: 0.18em;
+}
+
+.doi {
+  color: var(--muted);
+}
+
+@media (max-width: 620px) {
+  main {
+    width: min(100% - 28px, 760px);
+    padding: 42px 0 68px;
+  }
+
+  .title-page {
+    margin-bottom: 54px;
+  }
+
+  .author {
+    margin-bottom: 48px;
+  }
+
+  blockquote {
+    width: 88%;
+  }
+
+  article {
+    font-size: 1.05rem;
+    line-height: 1.98;
+    text-align: left;
+  }
+}
+
+@media print {
+  main {
+    width: auto;
+    padding: 0;
+  }
+
+  footer nav {
+    display: none;
+  }
+}
