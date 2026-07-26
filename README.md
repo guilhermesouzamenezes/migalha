@@ -4,7 +4,7 @@ Conto de Guilherme Menezes, publicado em edição digital com anotações ruby e
 
 ## Leitura
 
-A edição para a web está em `index.html`. A versão diagramada está em `Migalha-Guilherme-Menezes.pdf`. O Markdown-fonte está em `Migalha-Guilherme-Menezes.md`.
+A edição para a web está em `index.html`. A versão diagramada está em `Migalha-Guilherme-Menezes.pdf`. As fontes estão em `Migalha-Guilherme-Menezes.md` e `Migalha-Guilherme-Menezes.tex`.
 
 ## Autoria
 
