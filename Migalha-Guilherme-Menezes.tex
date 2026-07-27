@@ -18,8 +18,45 @@
   \rlap{\raisebox{14.4pt}[0pt][0pt]{\color{rubired}\rubyfont\hspace*{0.3em}#1}}#2}}
 \newcommand{\rbp}[2]{\leavevmode\hbox{%
   \rlap{\raisebox{14.4pt}[0pt][0pt]{\color{rubired}\pictofont #1}}#2}}
-\newcommand{\cruz}{\rb{\dag}}
-\newcommand{\lirio}{\rbp{\char"269C}}
+\newcommand{\rbc}[2]{\leavevmode\begingroup
+  \setbox0=\hbox{#2}%
+  \hbox{\rlap{\hbox to \wd0{\hss
+    \raisebox{14.4pt}[0pt][0pt]{\color{rubired}\rubyfont #1}%
+  \hss}}\box0}%
+  \endgroup}
+\newcommand{\rbpc}[2]{\leavevmode\begingroup
+  \setbox0=\hbox{#2}%
+  \hbox{\rlap{\hbox to \wd0{\hss
+    \raisebox{14.4pt}[0pt][0pt]{\color{rubired}\pictofont #1}%
+  \hss}}\box0}%
+  \endgroup}
+\newcommand{\crossglyph}{{\pictofont\char"271D}}
+\newcommand{\cruz}[1]{\rbc{\crossglyph}{#1}}
+\newcommand{\deusinterno}{\leavevmode\begingroup
+  \setbox2=\hbox{Deus}%
+  \hbox{\rlap{\hbox to \wd2{\hss
+    \raisebox{8.1pt}[0pt][0pt]{\fontsize{6.2}{6.2}\selectfont\pictofont\char"271D}%
+  \hss}}\box2}%
+  \endgroup}
+\newcommand{\rbdivino}[2]{\leavevmode\begingroup
+  \setbox0=\hbox{#2}%
+  \raisebox{0pt}[26pt][0pt]{\hbox{%
+    \rlap{\hbox to \wd0{\hss
+      \raisebox{10.5pt}[0pt][0pt]{\color{rubired}\rubyfont #1}%
+    \hss}}\box0}}%
+  \endgroup}
+\newcommand{\rbduplo}[3]{\leavevmode\begingroup
+  \setbox0=\hbox{#2}%
+  \raisebox{0pt}[25pt][18pt]{\hbox{%
+    \rlap{\hbox to \wd0{\hss
+      \raisebox{14.4pt}[0pt][0pt]{\color{rubired}\rubyfont #1}%
+    \hss}}%
+    \rlap{\hbox to \wd0{\hss
+      \raisebox{-13.5pt}[0pt][0pt]{\color{rubired}\rubyfont #3}%
+    \hss}}%
+    \box0}}%
+  \endgroup}
+\newcommand{\lirio}{\rbpc{\char"269C}}
 
 \begin{document}
 \fontsize{15.94}{26.3}\selectfont
@@ -128,7 +165,7 @@ Júnior voltou a mão pro costado do bicho e não disse mais nada dessa parte.
 
 Um tempo ninguém disse nada. Só o peito de Migalha, indo e falhando. Aí Júnior mudou a fala — botou a voz que se bota pra quem está indo:
 
-— Tu lembra da pracinha, né. Domingo, Firmino trazia Dedé na cadeirinha pra praça, pro menino tomar o movimento. E este aqui largava a sombra dele, atravessava a praça no arrasto, fazendo o risco na areia, e ia se deitar debaixo da cadeirinha. Bina chamava o menino de príncipe; pois o príncipe tinha guarda. Ficava ali no fole dele, e o menino no fole do menino, \rb{Dedé}{os} \rb{Migalha}{dois} respirando errado a manhã toda. Uma vez a mão de Dedé escorregou do braço da cadeira e ficou pousada no lombo dele. O tempo todinho.
+— Tu lembra da pracinha, né. Domingo, Firmino trazia Dedé na cadeirinha pra praça, pro menino tomar o movimento. E este aqui largava a sombra dele, atravessava a praça no arrasto, fazendo o risco na areia, e ia se deitar debaixo da cadeirinha. Bina chamava o menino de príncipe; pois o príncipe tinha guarda. Ficava ali no fole dele, e o menino no fole do menino, \rbduplo{Dedé}{os dois}{Migalha} respirando errado a manhã toda. Uma vez a mão de Dedé escorregou do braço da cadeira e ficou pousada no lombo dele. O tempo todinho.
 
 No meio dessa lembrança que eu olhei pra baixo. O peito tinha parado. Não se viu a hora. Júnior ainda ficou com a mão no costado, um tempo, esperando. Dedé também se foi sem se ver a hora, contou Bina no velório — no dormir da madrugada, sem chamar.
 
@@ -136,7 +173,7 @@ Júnior tirou a mão. Passou no queixo. E \rb{— Não\ldots}{decidiu}.
 
 — \ldots\ pros urubus eu não deixo.
 
-Fomos pegar enxada na casa de tia Santinha. Chamamos na porta, ela veio, olhou a gente, olhou o cachorro arrumado no braço de Júnior, feito uma \rb{— \cruz{Deus} o tenha.}{trouxinha, e disse}.
+Fomos pegar enxada na casa de tia Santinha. Chamamos na porta, ela veio, olhou a gente, olhou o cachorro arrumado no braço de Júnior, feito uma \rbdivino{— \deusinterno\ o tenha.}{trouxinha, e disse}.
 
 Cavamos no pé da jaqueira podre, atrás do mercado. Dois homens de camisa de gola cavando cova de cachorro no fim da tarde, com o suor já praticamente empoçando no chão. Quem passasse havia de rir. Não passou ninguém. Pelo menos isso. A cova pequena, eu reparei na hora e me calei do reparo: no comprimento, era a medida do caixãozinho do menino. Do de dois e meio.
 
@@ -168,19 +205,19 @@ E eu fui falando, com gosto. Filho é presente de \cruz{Deus}, eu disse, repetin
 
 Que eu tenho dívida nisso tudo, e Júnior não sabe, nem ninguém. No mês que Dedé nasceu, quando correu a notícia do jeito dele, eu disse em casa, baixinho, pra minha mulher só: é melhor \cruz{Deus} levar logo, pra não penar nem fazer penar. E quando ela foi levar o que se leva numa hora dessas, mandei dizer que eu ia depois. Fui depois de três semanas. Deu quatro anos. Nunca contei a Firmino. Fui pagando \rbp{┌─}{calado}.
 
-Júnior fincou a enxada e \rbp{┌─}{se apoiou}.
+Júnior \rbp{└}{fincou a enxada} e se apoiou.
 
 — Tu ouvisse o padre, na casa? Depois do \lirio{rosário}.
 
 — Mais ou menos. O que tem?
 
-— Pois eu também não esqueço. Firmino nem pisa mais em missa, tu sabe. Bina também não. Iam antigamente, no tempo do pai. E o padre foi lá assim mesmo, rezou o \lirio{rosário} com o povo, e no fim chegou perto da família e contou a história da mulher estrangeira. A que pediu pela filha doente, e o \cruz{Cristo} respondeu: $\equiv$ Não era certo tirar o pão dos filhos pra dar aos cachorros. E ela: sim, Senhor, mas até os cachorrinhos comem das migalhas que \rb{— Eita bicha ousada da p-}{caem da mesa}. E o \cruz{Cristo} \rb{\textbf{$\equiv$ Ó mulher, grande é a tua fé!}}{se venceu}, e curou ela, e a filha. — Nessa ele apontou o queixo pro bicho, deitado na beira da cova, só esperando a vez. — Padre não conta história à toa. Aí eu venho do enterro, e esse aí!? Ah, não\ldots: e o nome, ainda mais. Me diga se é coincidência.
+— Pois eu também não esqueço. Firmino nem pisa mais em missa, tu sabe. Bina também não. Iam antigamente, no tempo do pai. E o padre foi lá assim mesmo, rezou o \lirio{rosário} com o povo, e no fim chegou perto da família e contou a história da mulher estrangeira. A que pediu pela filha doente, e o \cruz{Cristo} respondeu: $\equiv$ Não era certo tirar o pão dos filhos pra dar aos cachorros. E ela: sim, Senhor, mas até os cachorrinhos comem das migalhas que \rb{— Eita bicha ousada da p-}{caem da mesa}. E o \cruz{Cristo} \rbc{\textbf{$\equiv$ Ó mulher, grande é a tua fé!}}{se venceu, e curou ela}, e a filha. — Nessa ele apontou o queixo pro bicho, deitado na beira da cova, só esperando a vez. — Padre não conta história à toa. Aí eu venho do enterro, e esse aí!? Ah, não\ldots: e o nome, ainda mais. Me diga se é coincidência.
 
 — É. Realmente.
 
 — Todo mundo levou quatro anos perguntando como era que Firmino aguentava.
 
-Esperei o resto da pergunta. Não veio. Bateu a enxada mais \rbp{┌─}{umas duas} ou \rbp{┌─}{três vezes}, e depois Júnior parou, olhando pro rumo do cemitério, que dali não se via.
+Esperei o resto da pergunta. Não veio. Bateu a enxada mais \rbp{┌─\ \ ┌─}{umas duas} ou \rbp{┌─?}{três vezes}, e depois Júnior parou, olhando pro rumo do cemitério, que dali não se via.
 
 — Tu reparou que ele ficou lá, né? Em pé, de frente à parede.
 
@@ -204,6 +241,6 @@ Na descida bateu o sino a \lirio{Ave-Maria}. Amanhã tornavam os coveiros ao cem
 
 Cada um foi pro seu canto. E fiquei pensando.
 
-Sucedeu, nessa mesma noite, que, estando minha mulher já deitada, vencida do sono, cansada do dia dos outros, e estando eu ainda acordado, rodando na cama sem achar posição, me levantei e fui pra calçada fumar um cigarro. Não me lembro de ter riscado o fósforo; o cigarro já estava aceso, e não diminuía. E foi na segunda tragada que \rb{\textbf{$\equiv$ Vem.}}{eu vi}: os dois vinham descendo a rua, \rb{voavam}{correndo}, o menino na frente — ele que nunca deu um passo — e o cachorro na perna dele, sem arrasto, sem risco nenhum na areia. E corriam e pulavam, ligeiros, desempenados, eles na estreia do corpo. E vinham descendo, e a rua sobe. E passaram por mim, e não me olharam, e eu soube o nome dos dois sem que ninguém dissesse, e quis chamar e não tinha voz. Então ouvi, de dentro de casa, a voz do meu avô, mole de sono, chamando: \rb{\textbf{$\equiv$ Vem.}}{vem, menino,} \rb{\textbf{$\equiv$ Podes descansar comigo.}}{chega de andar na rua,} \rb{\textbf{$\equiv$ Assenta-te.}}{entra que a mesa já está posta.} Pensei: estou andando dormindo, e isto é sonho. Porém em sonho ninguém corre (que a perna pesa, o chão puxa, e a gente quer correr e lá fica). E vi que não era sonho, tendo eles corrido; e vi que corriam e \rb{palmas}{voavam}; e vi que o \cruz{Senhor} os chamara.
+Sucedeu, nessa mesma noite, que, estando minha mulher já deitada, vencida do sono, cansada do dia dos outros, e estando eu ainda acordado, rodando na cama sem achar posição, me levantei e fui pra calçada fumar um cigarro. Não me lembro de ter riscado o fósforo; o cigarro já estava aceso, e não diminuía. E foi na segunda tragada que \rbc{\textbf{$\equiv$ Vem.}}{eu vi}: os dois vinham descendo a rua, \rb{voavam}{correndo}, o menino na frente — ele que nunca deu um passo — e o cachorro na perna dele, sem arrasto, sem risco nenhum na areia. E corriam e pulavam, ligeiros, desempenados, eles na estreia do corpo. E vinham descendo, e a rua sobe. E passaram por mim, e não me olharam, e eu soube o nome dos dois sem que ninguém dissesse, e quis chamar e não tinha voz. Então ouvi, de dentro de casa, a voz do meu avô, mole de sono, chamando: \rbc{\textbf{$\equiv$ Vem.}}{vem, menino,} \rbc{\textbf{$\equiv$ Podes descansar comigo.}}{chega de andar na rua,} \rbc{\textbf{$\equiv$ Assenta-te.}}{entra que a mesa já está posta.} Pensei: estou andando dormindo, e isto é sonho. Porém em sonho ninguém corre (que a perna pesa, o chão puxa, e a gente quer correr e lá fica). E vi que não era sonho, tendo eles corrido; e vi que corriam e \rb{palmas}{voavam}; e vi que o \cruz{Senhor} os chamara.
 
 \end{document}
