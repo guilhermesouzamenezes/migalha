@@ -6,33 +6,33 @@
 >
 > — 1 Samuel 2, 8
 
-*(notação: `base ⟨glosa⟩` = ruby alinhado à esquerda da base, impresso em vermelho)*
+*(Os rubys deste arquivo estão codificados em HTML semântico.)*
 
-Enterramos ⟨Morreu⟩ o menino de Firmino na quarta ⟨aos quatro anos.⟩. A cidade quase toda veio atrás do carro, da porta da casa até a ladeira do cemitério — na cidade é assim: morte que dói ajunta o povo. Enterro de anjo, minha mulher disse. Teve um caixãozinho branco, fita, um monte de flor de papel crepom. Branco de menino a funerária de Escada guarda em cima do armário, que embaixo não cabe, e guarda dois: um de palmo e meio e um de dois e meio. Só repõe quando vende. O de Dedé foi o de dois e meio, que ele já tinha quatro anos e não era mais de colo. Na porta, o motorista e um cunhado de Bina tiraram o caixão do carro, e aí fomos: eu, Júnior, Firmino e um padrinho. Era leve, não precisava de quatro braços, com o menino novo, e ainda por cima magro. Mas a gente foi. Isso foi questão de honra.
+<ruby>Enterramos<rt>Morreu</rt></ruby> o menino de Firmino na <ruby>quarta<rt>aos quatro anos.</rt></ruby>. A cidade quase toda veio atrás do carro, da porta da casa até a ladeira do cemitério — na cidade é assim: morte que dói ajunta o povo. Enterro de anjo, minha mulher disse. Teve um caixãozinho branco, fita, um monte de flor de papel crepom. Branco de menino a funerária de Escada guarda em cima do armário, que embaixo não cabe, e guarda dois: um de palmo e meio e um de dois e meio. Só repõe quando vende. O de Dedé foi o de dois e meio, que ele já tinha quatro anos e não era mais de colo. Na porta, o motorista e um cunhado de Bina tiraram o caixão do carro, e aí fomos: eu, Júnior, Firmino e um padrinho. Era leve, não precisava de quatro braços, com o menino novo, e ainda por cima magro. Mas a gente foi. Isso foi questão de honra.
 
-Quando a gente levantou, o povo que ficava do portão pra fora — que lá dentro só entra família e amigo muito chegado — bateu palma ⟨”””””⟩. Palma seca ⟨sem festa⟩. Palma ⟨”””””⟩, em enterro de anjo, eu vou dizer uma coisa: quem bate, é o povo de fora; o de dentro, não tem mão pra fazer isso, e muito menos cabeça. Enfim. Depois a rua foi descendo, e nós entramos, e as beatas atrás, cantando incelência ladeira acima. Cantando alto, de propósito ⟨— não chore, não chore⟩, porque incelência de anjo?, não, não é pra, pra... pra ficar de consolaç- de consolar ninguém não. É outra coisa. ⟨é pra cobrir o choro de quem não pode chorar⟩
+Quando a gente levantou, o povo que ficava do portão pra fora — que lá dentro só entra família e amigo muito chegado — bateu <ruby>palma<rt>”””””</rt></ruby>. Palma <ruby>seca<rt>sem festa</rt></ruby>. <ruby>Palma<rt>”””””</rt></ruby>, em enterro de anjo, eu vou dizer uma coisa: quem bate, é o povo de fora; o de dentro, não tem mão pra fazer isso, e muito menos cabeça. Enfim. Depois a rua foi descendo, e nós entramos, e as beatas atrás, cantando incelência ladeira acima. Cantando alto, de <ruby>propósito<rt>— não chore, não chore</rt></ruby>, porque incelência de anjo?, não, não é pra, pra... pra ficar de consolaç- de consolar ninguém não. É outra <ruby>coisa.<rt>é pra cobrir o choro de quem não pode chorar</rt></ruby>
 
-O jazigo da família de Firmino era encostado na parede, com uma carneira comprida feita na alvenaria, que a pessoa abre com um martelo e depois fecha, com cimento. Encostado agora. Antigamente ficava solto, no meio do corredor, com volta dos quatro lados. É que o cemitério não teve pra onde crescer: a cana vem até o muro, e a terra da cana não é de ninguém daqui. Aí a prefeitura, que nem gosta disso, resolveu crescer pra dentro: mandou levantar uma parede nova por cima do baldrame da antiga, que ninguém quebrou nem tirou, pra você ver o nível do serviço, que o pedreiro tirou o prumo pelo lado de fora e esqueceu do de dentro. Pronto: ficou assim, essa belezura. Quando chegamos, o buraco já estava aberto ⟨⎡▄▄▄▄▄    ⎤⟩ na parte de baixo, martelado desde manhã cedo. Dentro, no escuro, já tinha caixão, mais de um ⟨▯▯▯⟩: o do pai velho de Firmino, o da mãe e mais um, já na outra parede, do tempo. O branco ia ser o quarto. E o menor ⟨▯▯▯▫⟩.
+O jazigo da família de Firmino era encostado na parede, com uma carneira comprida feita na alvenaria, que a pessoa abre com um martelo e depois fecha, com cimento. Encostado agora. Antigamente ficava solto, no meio do corredor, com volta dos quatro lados. É que o cemitério não teve pra onde crescer: a cana vem até o muro, e a terra da cana não é de ninguém daqui. Aí a prefeitura, que nem gosta disso, resolveu crescer pra dentro: mandou levantar uma parede nova por cima do baldrame da antiga, que ninguém quebrou nem tirou, pra você ver o nível do serviço, que o pedreiro tirou o prumo pelo lado de fora e esqueceu do de dentro. Pronto: ficou assim, essa belezura. Quando chegamos, o buraco já estava <ruby>aberto<rt>⎡▄▄▄▄▄    ⎤</rt></ruby> na parte de baixo, martelado desde manhã cedo. Dentro, no escuro, já tinha caixão, mais de <ruby>um<rt>▯▯▯</rt></ruby>: o do pai velho de Firmino, o da mãe e mais um, já na outra parede, do tempo. O branco ia ser o quarto. E o <ruby>menor<rt>▯▯▯▫</rt></ruby>.
 
-Na hora, pela ponta, não foi — o caixão. Os antigos já eram apertados lá dentro — parece que no tempo, pra caber o segundo, assim disseram, tinham empurrado o primeiro, e um ficou atravancado no outro, de banda, por conta de uma pedra enterrada, lá, do baldrame velho. E por fora, do mesmo jeito: não tinha manobra, com o corredor apertado, e porque havia outro túmulo logo em frente, quase colado no de Firmino, impedindo a entrada. O caixãozinho ⟨ı⟩, coitada da família, entrava um palmo ⟨ı=⟩ e topava ⟨ı|⟩.
+Na hora, pela ponta, não foi — o caixão. Os antigos já eram apertados lá dentro — parece que no tempo, pra caber o segundo, assim disseram, tinham empurrado o primeiro, e um ficou atravancado no outro, de banda, por conta de uma pedra enterrada, lá, do baldrame velho. E por fora, do mesmo jeito: não tinha manobra, com o corredor apertado, e porque havia outro túmulo logo em frente, quase colado no de Firmino, impedindo a entrada. O <ruby>caixãozinho<rt>ı</rt></ruby>, coitada da família, entrava um <ruby>palmo<rt>ı=</rt></ruby> e <ruby>topava<rt>ı|</rt></ruby>.
 
-O coveiro tirou, com o ajudante, e se olharam, medindo. Martelaram ⟨⎡▄▄▄▄▄┄   ⎤⟩ mais dois palmos ⟨⎡▄▄▄▄▄ -- ⎤⟩ de parede, pro lado de lá, alargando o buraco ⟨⎡▄▄▄▄▄▄▄  ⎤⟩ do lado comprido. Aí viraram o caixãozinho de lado, emparelhado com a parede, se sentaram no chão os dois, firmaram as costas, botaram os pés na madeira e foram empurrando com as pernas — empurrando o menino, Deus me perdoe, o caixão, digo —, arrastando pelo cimento, até entrar inteiro ⟨⎡,, ,,↷▔██⎤⟩ e caber, que vaga não é palavra pra isso, entre os antigos. Ninguém achou desfeita. Foi o jeito, e o jeito é o que teve. Quando por fim encaixou, os de dentro bateram palma ⟨”””””⟩, a gente, de dentro do cemitério.
+O coveiro tirou, com o ajudante, e se olharam, medindo. <ruby>Martelaram<rt>⎡▄▄▄▄▄┄   ⎤</rt></ruby> mais dois <ruby>palmos<rt>⎡▄▄▄▄▄ -- ⎤</rt></ruby> de parede, pro lado de lá, alargando o <ruby>buraco<rt>⎡▄▄▄▄▄▄▄  ⎤</rt></ruby> do lado comprido. Aí viraram o caixãozinho de lado, emparelhado com a parede, se sentaram no chão os dois, firmaram as costas, botaram os pés na madeira e foram empurrando com as pernas — empurrando o menino, Deus me perdoe, o caixão, digo —, arrastando pelo cimento, até entrar <ruby>inteiro<rt>⎡,, ,,↷▔██⎤</rt></ruby> e caber, que vaga não é palavra pra isso, entre os antigos. Ninguém achou desfeita. Foi o jeito, e o jeito é o que teve. Quando por fim encaixou, os de dentro bateram <ruby>palma<rt>”””””</rt></ruby>, a gente, de dentro do cemitério.
 
-Tinha aquele mandamento antigo rondando: não chore, mãe, que choro de mãe molha a asa do anjinho, e anjinho de asa molhada não voa. Ali eu vi, pois foi a dor rasgando a mãe, e o caixãozinho entrando todo imprensado, e Bina disse: é? Engoliu o choro — ela e Firmino — e bateu palma ⟨”””””⟩. Os dois. Pra Dedé ir em paz, e poder subir mais sem peso.
+Tinha aquele mandamento antigo rondando: não chore, mãe, que choro de mãe molha a asa do anjinho, e anjinho de asa molhada não voa. Ali eu vi, pois foi a dor rasgando a mãe, e o caixãozinho entrando todo imprensado, e Bina disse: é? Engoliu o choro — ela e Firmino — e bateu <ruby>palma<rt>”””””</rt></ruby>. Os dois. Pra Dedé ir em paz, e poder subir mais sem peso.
 
-Depois os coveiros foram bater o cimento ⟨⎡▓▓▓▓▓▓▓▓▓⎤⟩ de fechar. O serviço é por fora da prefeitura. Cimento e a mão de obra, quem paga é a família. Mas na hora deu certo. Enquanto a massa descansava, um deles subiu em cima por uma pilastra, de facão, e foi tirando os galhos do oitizeiro, que um estava passando do teto, por cima. Foi tirando de pouquinho em pouquinho, galho por galho, ajuntando tudo num canto. Aquele oitizeiro é mais velho que o muro. Todo ano cortam esse mesmo galho; todo ano ele torna (e tirar, que é bom, nada da prefeitura fazer (só um comentário), só sabe, só sabe, né? Deixar os outros pagando). Aí os dois fecharam o buraco, alisaram, e o mais velho disse a Firmino que da parte deles estava resolvido: amanhã, com o cimento seco ⟨⎡▒▒▒▒▒▒▒▒▒⎤⟩, um ia passar a massa fina e repintavam de branco ⟨⎡         ⎤⟩. Que agora eles podiam ir, a família, se quisesse. Firmino agradeceu, e foi tirar do bolso, e o homem fez que não com a mão ⟨— Deixe que pro seu menino⟩, e Firmino insistiu ⟨é por conta nossa.⟩, e foram ali os dois, pro canto, e bem deu o dinheiro na mão dele. Depois Firmino voltou e ficou por lá, em pé de frente à parede, do lado da cruz ⟨†⟩.
+Depois os coveiros foram bater o <ruby>cimento<rt>⎡▓▓▓▓▓▓▓▓▓⎤</rt></ruby> de fechar. O serviço é por fora da prefeitura. Cimento e a mão de obra, quem paga é a família. Mas na hora deu certo. Enquanto a massa descansava, um deles subiu em cima por uma pilastra, de facão, e foi tirando os galhos do oitizeiro, que um estava passando do teto, por cima. Foi tirando de pouquinho em pouquinho, galho por galho, ajuntando tudo num canto. Aquele oitizeiro é mais velho que o muro. Todo ano cortam esse mesmo galho; todo ano ele torna (e tirar, que é bom, nada da prefeitura fazer (só um comentário), só sabe, só sabe, né? Deixar os outros pagando). Aí os dois fecharam o buraco, alisaram, e o mais velho disse a Firmino que da parte deles estava resolvido: amanhã, com o cimento <ruby>seco<rt>⎡▒▒▒▒▒▒▒▒▒⎤</rt></ruby>, um ia passar a massa fina e repintavam de <ruby>branco<rt>⎡         ⎤</rt></ruby>. Que agora eles podiam ir, a família, se quisesse. Firmino agradeceu, e foi tirar do bolso, e o homem fez que não com a <ruby>mão<rt>— Deixe que pro seu menino</rt></ruby>, e Firmino <ruby>insistiu<rt>é por conta nossa.</rt></ruby>, e foram ali os dois, pro canto, e bem deu o dinheiro na mão dele. Depois Firmino voltou e ficou por lá, em pé de frente à parede, do lado da <ruby>cruz<rt>†</rt></ruby>.
 
-Dedé viveu quatro anos e tanto. O nome, de batismo, era Deusdedite — foi Bina quem escolheu: aquele que Deus ⟨†⟩ deu. Nasceu com o corpo todo problemático. Foi entortando. Um pescoço que não firmou, e não andava; todo doente, o pobre. E nem falar, falava, pra poder se queixar. O médico disse a Firmino, quando nasceu: não tem jeito. Que, pelo menos, foi bom; que ainda tinham foi sorte, dele ter nascido. Aí levaram pra casa. Só que o que o médico disse, aquela menina, a de Rejane, filha daquela professora do colégio, de antigamente, que ela trabalha no hospital, deve ter ouvido, né? E ficou falando coisa na rua, e aí, é: você sabe. Uma coisa que eu odeio, é fofoca. Isso que eu estou dizendo é porque a minha esposa contou, veja bem, porque mulher, você sabe, tem essas coisas. Tanto é, né? Que eu estou certo, que foi bem assim, naquele tempo — primeiro falaram: não tinha jeito; depois que ele tinha dito que não passava do ano; depois que tinha dito que era de sangue, e sangue de parente, e aí, que Firmino e Bina eram primos de segundo grau, antigamente, e disso todo mundo sabe. Aí quem quis, botou a conta, ⟨— Foi Deus.⟩ no que quis ⟨— Foi eles.⟩, ou então, né? Eu vou ficar é calado. Dele, do que era seu mesmo, o menino tinha os olhos. Dois olhinhos marrons, olhando; disse tia Santinha uma vez que eram sábios. Quem chegava na casa de Firmino era primeiro olhado; só depois é que era recebido.
+Dedé viveu quatro anos e tanto. O nome, de batismo, era Deusdedite — foi Bina quem escolheu: aquele que <ruby>Deus<rt>†</rt></ruby> deu. Nasceu com o corpo todo problemático. Foi entortando. Um pescoço que não firmou, e não andava; todo doente, o pobre. E nem falar, falava, pra poder se queixar. O médico disse a Firmino, quando nasceu: não tem jeito. Que, pelo menos, foi bom; que ainda tinham foi sorte, dele ter nascido. Aí levaram pra casa. Só que o que o médico disse, aquela menina, a de Rejane, filha daquela professora do colégio, de antigamente, que ela trabalha no hospital, deve ter ouvido, né? E ficou falando coisa na rua, e aí, é: você sabe. Uma coisa que eu odeio, é fofoca. Isso que eu estou dizendo é porque a minha esposa contou, veja bem, porque mulher, você sabe, tem essas coisas. Tanto é, né? Que eu estou certo, que foi bem assim, naquele tempo — primeiro falaram: não tinha jeito; depois que ele tinha dito que não passava do ano; depois que tinha dito que era de sangue, e sangue de parente, e aí, que Firmino e Bina eram primos de segundo grau, antigamente, e disso todo mundo sabe. Aí quem quis, botou a <ruby>conta,<rt>— Foi Deus.</rt></ruby> no que <ruby>quis<rt>— Foi eles.</rt></ruby>, ou então, né? Eu vou ficar é calado. Dele, do que era seu mesmo, o menino tinha os olhos. Dois olhinhos marrons, olhando; disse tia Santinha uma vez que eram sábios. Quem chegava na casa de Firmino era primeiro olhado; só depois é que era recebido.
 
-Na volta, eu e Júnior viemos descendo pela rua de baixo. Com a roupa de enterro, ainda, e com a terra pesando o sapato por baixo. A ladeira passa na frente da igreja, e foi passando a gente que o sino bateu. Bateu, e não era hora de nada. Sino, eu vou dizer, aqui tem duas conversas: o dobre, que é do defunto, devagar, um por um — dimmm, dimmm; e o repique ⟨⚜⟩, que é de festa — dim-dim-dim-dim-dim. Pra anjo, o sineiro repica. Sempre foi assim, e sempre teve quem achasse ruim. Pronto, e aquele dia ele repicou, e Firmino nem em missa pisa mais, não tinha mandado, e o padre muito menos. Júnior olhou pra cima ⟨— Ahn?⟩, e eu também. Não se viu ninguém na torre. Foi-se um tempo a gente calado. Depois um falou, depois outro, e foi vindo a conversa. E foi, e foi, e ninguém achava por onde entrar o assunto. Todo assunto dava no mesmo assunto, e essa conversa ali não podia.
+Na volta, eu e Júnior viemos descendo pela rua de baixo. Com a roupa de enterro, ainda, e com a terra pesando o sapato por baixo. A ladeira passa na frente da igreja, e foi passando a gente que o sino bateu. Bateu, e não era hora de nada. Sino, eu vou dizer, aqui tem duas conversas: o dobre, que é do defunto, devagar, um por um — dimmm, dimmm; e o <ruby>repique<rt>⚜</rt></ruby>, que é de festa — dim-dim-dim-dim-dim. Pra anjo, o sineiro repica. Sempre foi assim, e sempre teve quem achasse ruim. Pronto, e aquele dia ele repicou, e Firmino nem em missa pisa mais, não tinha mandado, e o padre muito menos. Júnior olhou pra <ruby>cima<rt>— Ahn?</rt></ruby>, e eu também. Não se viu ninguém na torre. Foi-se um tempo a gente calado. Depois um falou, depois outro, e foi vindo a conversa. E foi, e foi, e ninguém achava por onde entrar o assunto. Todo assunto dava no mesmo assunto, e essa conversa ali não podia.
 
-Na entrada da rua do mercado, Júnior apontou ⟨— Olha lá⟩.
+Na entrada da rua do mercado, Júnior <ruby>apontou<rt>— Olha lá</rt></ruby>.
 
-Migalha, um cachorro de rua, da gente mesmo, estava no lugar que era dele, na sombra de uma parede pintada. Deitado. Mas torto, deitado errado. A gente estranhou, e foi, e aí viu, ele com o fôlego curto. Júnior se abaixou, pôs a mão na costela dele, e chamou ⟨— Ei. Migalha. Psiu.⟩. Foi só o tempo de encostar. Ele foi... olhou pra gente, calado... e começou a diminuir. Aí o peito ficou indo ⟨(—)⟩ e voltando ⟨(-)⟩, indo ⟨(—)⟩ e voltando ⟨(-)⟩. Quase parando, com uns silêncios ⟨(  )⟩ no meio.
+Migalha, um cachorro de rua, da gente mesmo, estava no lugar que era dele, na sombra de uma parede pintada. Deitado. Mas torto, deitado errado. A gente estranhou, e foi, e aí viu, ele com o fôlego curto. Júnior se abaixou, pôs a mão na costela dele, e <ruby>chamou<rt>— Ei. Migalha. Psiu.</rt></ruby>. Foi só o tempo de encostar. Ele foi... olhou pra gente, calado... e começou a diminuir. Aí o peito ficou <ruby>indo<rt>(—)</rt></ruby> e <ruby>voltando<rt>(-)</rt></ruby>, <ruby>indo<rt>(—)</rt></ruby> e <ruby>voltando<rt>(-)</rt></ruby>. Quase parando, com uns <ruby>silêncios<rt>(  )</rt></ruby> no meio.
 
 — Tá morrendo também — disse Júnior. Não tirou a mão. — E escolheu logo hoje, rapaz.
 
-Migalha era conhecimento da rua toda. Era feio, e aleijado. Troncho, o cachorro, não prestava pra nada, nadinha; de onde tinha vindo ninguém soube, nem como. Do monturo da feira, era bem capaz, apostava o povo. Já tinha nascido devendo: as pernas de trás, tronchas também, ele arrastava fazendo um risco na areia; tinha o peito estreito e o focinho empinado pra baixo. Do arrasto vivia com o cotovelo de trás pelado, uma casca ali que fechava e abria, fechava e abria, e nada mais além disso, que pereba de cachorro é de fome, e fome, mesmo, pra dizer o certo, ele não tinha. Migalha já estava velho, do meu tempo que eu morava lá na rua de Firmino, vamos supor, sete anos. Bicho assim, sozinho, na natureza, pra caçar, não dura uma semana. Pois. Mas também, com aquela manha, durava era mais: se fingia de esmolé, o desgraçado, e ninguém nunca soube quanto daquilo ali era perna mesmo e quanto era safadeza ⟨Aí é fácil demais.⟩. A mulher do padeiro dava o pão, o açougueiro largava as aparas da carne, e os meninos da rua levantavam ele do pó e carregavam de uma sombra pra outra quando o sol esquentava. Quando sumia, um dia, dois dias, achavam pelo risco: aí iam seguindo o rastro na areia até dar nele. O nome, foi o povo do mercado também que deu, por conta da mania de viver na perna do povo, catando as migalhas.
+Migalha era conhecimento da rua toda. Era feio, e aleijado. Troncho, o cachorro, não prestava pra nada, nadinha; de onde tinha vindo ninguém soube, nem como. Do monturo da feira, era bem capaz, apostava o povo. Já tinha nascido devendo: as pernas de trás, tronchas também, ele arrastava fazendo um risco na areia; tinha o peito estreito e o focinho empinado pra baixo. Do arrasto vivia com o cotovelo de trás pelado, uma casca ali que fechava e abria, fechava e abria, e nada mais além disso, que pereba de cachorro é de fome, e fome, mesmo, pra dizer o certo, ele não tinha. Migalha já estava velho, do meu tempo que eu morava lá na rua de Firmino, vamos supor, sete anos. Bicho assim, sozinho, na natureza, pra caçar, não dura uma semana. Pois. Mas também, com aquela manha, durava era mais: se fingia de esmolé, o desgraçado, e ninguém nunca soube quanto daquilo ali era perna mesmo e quanto era <ruby>safadeza<rt>Aí é fácil demais.</rt></ruby>. A mulher do padeiro dava o pão, o açougueiro largava as aparas da carne, e os meninos da rua levantavam ele do pó e carregavam de uma sombra pra outra quando o sol esquentava. Quando sumia, um dia, dois dias, achavam pelo risco: aí iam seguindo o rastro na areia até dar nele. O nome, foi o povo do mercado também que deu, por conta da mania de viver na perna do povo, catando as migalhas.
 
 Ficamos. Sentei na pedra da calçada; Júnior ficou de cócoras, com a mão indo e vindo nas costas do bicho, devagarinho. A rua vazia, de tarde, já quase três horas. A gente ficou lá, falando baixinho.
 
@@ -40,21 +40,21 @@ Ficamos. Sentei na pedra da calçada; Júnior ficou de cócoras, com a mão indo
 
 Júnior soltou. E agora com a voz de quem espanta cachorro do prato, aguda, raspando na garganta:
 
-— Me diga uma coisa. Pra que é que Deus ⟨†⟩ faz um bicho já nascido errado? Pra durar pouco, penar o durante e ficar só comendo da mão dos outros? Pra quê?
+— Me diga uma coisa. Pra que é que <ruby>Deus<rt>†</rt></ruby> faz um bicho já nascido errado? Pra durar pouco, penar o durante e ficar só comendo da mão dos outros? Pra quê?
 
-— É complicado . ⟨— É, meu amigo.⟩
+— É complicado <ruby>.<rt>— É, meu amigo.</rt></ruby>
 
 — É. Mas, também, se o cara for ficar vendo por esse lado, ele não pensa em mais nada.
 
-— Mas, meu amigo, se Deus ⟨†⟩ não tem mão nesses erros, o barco anda sem piloto. E outra coisa: se faz, se pilota, no caso, e manda assim mesmo... que piloto é esse?
+— Mas, meu amigo, se <ruby>Deus<rt>†</rt></ruby> não tem mão nesses erros, o barco anda sem piloto. E outra coisa: se faz, se pilota, no caso, e manda assim mesmo... que piloto é esse?
 
-— E eu sei, Júnior? É a natureza. ⟨Que pergunta da porra.⟩
+— E eu sei, Júnior? É a <ruby>natureza.<rt>Que pergunta da porra.</rt></ruby>
 
 — Bota a mão aqui.
 
 Botei. O peito ia por baixo do pelo, ralo, e falhava, e tornava.
 
-— Tu sabe quem é que ia matar esse cachorro? — Júnior não olhou pra mim. — Seu Vavá ⟨ — Quem?⟩. E outr- Seu Vavá, rapaz. Ah, não ⟨ — Qual?⟩. Do açougue de S-... ⟨ — Ah, sim.⟩ pronto. E digo mais: filhote, ainda, assim que ele apareceu, mais ou menos. Pegou pelo cangote: pá!, e foi levando pro fundo do quintal, com o gancho na outra mão, que era pra não sujar dentro. Eu vi ⟨ — É nada.⟩, eu vi, que eu era de doze anos e estava na feira. Aí ele parou no meio do quintal, e ficou... sabe? Não sei o que foi. Depois botou ⟨ — Apois!⟩ o bicho no chão e disse: some daqui. E é ele que dá as aparas até hoje, todo santo dia, na porta dos fundos. Me diga tu agora de que lado é seu Vavá.
+— Tu sabe quem é que ia matar esse cachorro? — Júnior não olhou pra mim. — Seu <ruby>Vavá<rt> — Quem?</rt></ruby>. E outr- Seu Vavá, rapaz. Ah, <ruby>não<rt> — Qual?</rt></ruby>. Do açougue de <ruby>S-...<rt> — Ah, sim.</rt></ruby> pronto. E digo mais: filhote, ainda, assim que ele apareceu, mais ou menos. Pegou pelo cangote: pá!, e foi levando pro fundo do quintal, com o gancho na outra mão, que era pra não sujar dentro. Eu <ruby>vi<rt> — É nada.</rt></ruby>, eu vi, que eu era de doze anos e estava na feira. Aí ele parou no meio do quintal, e ficou... sabe? Não sei o que foi. Depois <ruby>botou<rt> — Apois!</rt></ruby> o bicho no chão e disse: some daqui. E é ele que dá as aparas até hoje, todo santo dia, na porta dos fundos. Me diga tu agora de que lado é seu Vavá.
 
 Não tinha o que dizer disso. Fiquei lá um tempo, pensando, e a pedra da calçada esquentando.
 
@@ -72,11 +72,11 @@ Não disse nada, e eu contei assim mesmo.
 
 — Sim, todo mundo. Menos um. Um que era igual a ele — aleijado, ou velho, vamos supor. Aí ele abaixou a lança. Tirou carne da própria boca, mastigou pra amolecer e deu. E olhe: o lobo tinha dente.
 
-— Com lobo com fome, a mão vai junto ⟨— Sim,⟩.
+— Com lobo com fome, a mão vai <ruby>junto<rt>— Sim,</rt></ruby>.
 
 — geralmente sim. Mas, nesse caso, não foi.
 
-— Pois devia. Meu avô também tinha as dele. ⟨— História de avô.⟩ E não é o mesmo lobo que come as galinhas depois?
+— Pois devia. Meu avô também tinha as <ruby>dele.<rt>— História de avô.</rt></ruby> E não é o mesmo lobo que come as galinhas depois?
 
 — É o mesmo.
 
@@ -84,7 +84,7 @@ Não disse nada, e eu contei assim mesmo.
 
 Deixei estar um tempo.
 
-— E como se não bastasse, ainda lambeu a mão ⟨do cachor-⟩, nã-, ainda lambeu a mão ⟨o lobo⟩; o lobo pegou, e lambeu a mão do rapaz. — Eu expliquei a ele. — A gente vem é daí.
+— E como se não bastasse, ainda lambeu a <ruby>mão<rt>do cachor-</rt></ruby>, nã-, ainda lambeu a <ruby>mão<rt>o lobo</rt></ruby>; o lobo pegou, e lambeu a mão do rapaz. — Eu expliquei a ele. — A gente vem é daí.
 
 — E ele contava de que lado? Do que abaixou a lança, ou dos outros?
 
@@ -96,59 +96,59 @@ Júnior voltou a mão pro costado do bicho e não disse mais nada dessa parte.
 
 Um tempo ninguém disse nada. Só o peito de Migalha, indo e falhando. Aí Júnior mudou a fala — botou a voz que se bota pra quem está indo:
 
-— Tu lembra da pracinha, né. Domingo, Firmino trazia Dedé na cadeirinha pra praça, pro menino tomar o movimento. E este aqui largava a sombra dele, atravessava a praça no arrasto, fazendo o risco na areia, e ia se deitar debaixo da cadeirinha. Bina chamava o menino de príncipe; pois o príncipe tinha guarda. Ficava ali no fole dele, e o menino no fole do menino, os ⟨Dedé⟩ dois ⟨Migalha⟩ respirando errado a manhã toda. Uma vez a mão de Dedé escorregou do braço da cadeira e ficou pousada no lombo dele. O tempo todinho.
+— Tu lembra da pracinha, né. Domingo, Firmino trazia Dedé na cadeirinha pra praça, pro menino tomar o movimento. E este aqui largava a sombra dele, atravessava a praça no arrasto, fazendo o risco na areia, e ia se deitar debaixo da cadeirinha. Bina chamava o menino de príncipe; pois o príncipe tinha guarda. Ficava ali no fole dele, e o menino no fole do menino, <ruby class="ruby-duplo">os dois<rt>Dedé<br>Migalha</rt></ruby> respirando errado a manhã toda. Uma vez a mão de Dedé escorregou do braço da cadeira e ficou pousada no lombo dele. O tempo todinho.
 
 No meio dessa lembrança que eu olhei pra baixo. O peito tinha parado. Não se viu a hora. Júnior ainda ficou com a mão no costado, um tempo, esperando. Dedé também se foi sem se ver a hora, contou Bina no velório — no dormir da madrugada, sem chamar.
 
-Júnior tirou a mão. Passou no queixo. E decidiu ⟨— Não...⟩.
+Júnior tirou a mão. Passou no queixo. E <ruby>decidiu<rt>— Não...</rt></ruby>.
 
 — ... pros urubus eu não deixo.
 
-Fomos pegar enxada na casa de tia Santinha. Chamamos na porta, ela veio, olhou a gente, olhou o cachorro arrumado no braço de Júnior, feito uma trouxinha, e disse ⟨— Deus ⟨†⟩ o tenha.⟩.
+Fomos pegar enxada na casa de tia Santinha. Chamamos na porta, ela veio, olhou a gente, olhou o cachorro arrumado no braço de Júnior, feito uma trouxinha, e <ruby>disse<rt>— Deus<sup>†</sup> o tenha.</rt></ruby>.
 
 Cavamos no pé da jaqueira podre, atrás do mercado. Dois homens de camisa de gola cavando cova de cachorro no fim da tarde, com o suor já praticamente empoçando no chão. Quem passasse havia de rir. Não passou ninguém. Pelo menos isso. A cova pequena, eu reparei na hora e me calei do reparo: no comprimento, era a medida do caixãozinho do menino. Do de dois e meio.
 
 Júnior foi cavando e falando no compasso da enxada.
 
-— Sete anos esse bicho comeu na mão da rua ⟨┌─⟩. Não caçou, não vigiou, não deu cria ⟨┌─⟩. Só tomou. Que amor é esse que só sabe custar ⟨┌─⟩?
+— Sete anos esse bicho comeu na mão da <ruby>rua<rt>┌─</rt></ruby>. Não caçou, não vigiou, não deu <ruby>cria<rt>┌─</rt></ruby>. Só tomou. Que amor é esse que só sabe <ruby>custar<rt>┌─</rt></ruby>?
 
 Fiquei calado. Fiquei foi pensando no meu avô, que a história dele não tinha me vindo à toa. No fim da vida o velho não tinha dente nenhum. Minha avó mastigava a carne e passava, e ele comia da mão dela, na mesa, na frente de quem estivesse. Morreu assim. O homem da lança, quando chegou a hora dele, comeu foi da boca dos outros. E ninguém naquela casa achou desfeita, nem achou graça.
 
-— Só sei que essa conta não fecha ⟨┌─⟩.
+— Só sei que essa conta não <ruby>fecha<rt>┌─</rt></ruby>.
 
 — É, mas foi assim que Firmino amou o menino.
 
-— Foi. Quatro anos ⟨╷⟩. Cobrar o quê? — Ajeitou o cabo da enxada. — E não foi ele só, repara ⟨┌─⟩. A Filismina, o padeiro, tua mulher ⟨┌─⟩. A mesma gente que dava ao cachorro revezava vigia na casa dele ⟨┌─⟩. Ninguém combinou. Foi indo. E tu viu hoje o portão ⟨┌─⟩: a rua subiu a ladeira inteira pra ficar do lado de fora ⟨┌─⟩, esperando só a hora de bater palma ⟨┌─⟩. Palma pra menino que nunca deu um passo ⟨┌─⟩.
+— Foi. Quatro <ruby>anos<rt>╷</rt></ruby>. Cobrar o quê? — Ajeitou o cabo da enxada. — E não foi ele só, <ruby>repara<rt>┌─</rt></ruby>. A Filismina, o padeiro, tua <ruby>mulher<rt>┌─</rt></ruby>. A mesma gente que dava ao cachorro revezava vigia na casa <ruby>dele<rt>┌─</rt></ruby>. Ninguém combinou. Foi indo. E tu viu hoje o <ruby>portão<rt>┌─</rt></ruby>: a rua subiu a ladeira inteira pra ficar do lado de <ruby>fora<rt>┌─</rt></ruby>, esperando só a hora de bater <ruby>palma<rt>┌─</rt></ruby>. Palma pra menino que nunca deu um <ruby>passo<rt>┌─</rt></ruby>.
 
-— Palma ⟨”””””⟩ não serve pra nada.
+— <ruby>Palma<rt>”””””</rt></ruby> não serve pra nada.
 
-— Pois bateram ⟨┌─⟩.
+— Pois <ruby>bateram<rt>┌─</rt></ruby>.
 
-Júnior ficou um tempo só cavando ⟨┌─ ┌─ ┌─⟩. Depois falou, o queixo duro:
+Júnior ficou um tempo só <ruby>cavando<rt>┌─ ┌─ ┌─</rt></ruby>. Depois falou, o queixo duro:
 
-— E tem quem diga que foi melhor assim ⟨┌─⟩. Que pelo menos se foi com os pais vivos ⟨┌─⟩. Eu mesmo ouvi hoje, no meio do povo, de mais de uma boca ⟨┌─⟩. E fiquei pensando, que Deus ⟨†⟩ me perdoe: vantagem, qual era, me diga ⟨┌─⟩? Filho, no dizer do povo, é pra quê ⟨┌─⟩? Pra cuidar da gente quando a gente não puder mais ⟨┌─⟩. Esse não ia cuidar de ninguém. Pelo contrário. Ia só ficar ⟨┌─⟩. Dando trabalho, até o fim ⟨┌─⟩. E depois, Deus ⟨†⟩ me perdoe? Pior ainda. Firmino e Bina morrendo primeiro ⟨— Não tem problema,⟩, aperreados, sem saber com quem ele ficava ⟨a gente cuidava.⟩. A gente ia ver, mas de todo jeito ⟨┌─⟩. Me diga a vantagem ⟨┌─⟩.
+— E tem quem diga que foi melhor <ruby>assim<rt>┌─</rt></ruby>. Que pelo menos se foi com os pais <ruby>vivos<rt>┌─</rt></ruby>. Eu mesmo ouvi hoje, no meio do povo, de mais de uma <ruby>boca<rt>┌─</rt></ruby>. E fiquei pensando, que <ruby>Deus<rt>†</rt></ruby> me perdoe: vantagem, qual era, me <ruby>diga<rt>┌─</rt></ruby>? Filho, no dizer do povo, é pra <ruby>quê<rt>┌─</rt></ruby>? Pra cuidar da gente quando a gente não puder <ruby>mais<rt>┌─</rt></ruby>. Esse não ia cuidar de ninguém. Pelo contrário. Ia só <ruby>ficar<rt>┌─</rt></ruby>. Dando trabalho, até o <ruby>fim<rt>┌─</rt></ruby>. E depois, <ruby>Deus<rt>†</rt></ruby> me perdoe? Pior ainda. Firmino e Bina morrendo <ruby>primeiro<rt>— Não tem problema,</rt></ruby>, aperreados, sem saber com quem ele <ruby>ficava<rt>a gente cuidava.</rt></ruby>. A gente ia ver, mas de todo <ruby>jeito<rt>┌─</rt></ruby>. Me diga a <ruby>vantagem<rt>┌─</rt></ruby>.
 
-— Não precisa ter vantagem, Júnior. Isso é assim mesmo. Coração não fica fazendo conta não. Bate, bate, bate, e um dia cansa ⟨┌─⟩. A gente morre é quando o coração cansa. E pronto.
+— Não precisa ter vantagem, Júnior. Isso é assim mesmo. Coração não fica fazendo conta não. Bate, bate, bate, e um dia <ruby>cansa<rt>┌─</rt></ruby>. A gente morre é quando o coração cansa. E pronto.
 
-E ele ficou quieto ⟨┌─⟩.
+E ele ficou <ruby>quieto<rt>┌─</rt></ruby>.
 
-E eu fui falando, com gosto. Filho é presente de Deus ⟨†⟩, eu disse, repetindo. E eu mesmo, devendo.
+E eu fui falando, com gosto. Filho é presente de <ruby>Deus<rt>†</rt></ruby>, eu disse, repetindo. E eu mesmo, devendo.
 
-Que eu tenho dívida nisso tudo, e Júnior não sabe, nem ninguém. No mês que Dedé nasceu, quando correu a notícia do jeito dele, eu disse em casa, baixinho, pra minha mulher só: é melhor Deus ⟨†⟩ levar logo, pra não penar nem fazer penar. E quando ela foi levar o que se leva numa hora dessas, mandei dizer que eu ia depois. Fui depois de três semanas. Deu quatro anos. Nunca contei a Firmino. Fui pagando calado ⟨┌─⟩.
+Que eu tenho dívida nisso tudo, e Júnior não sabe, nem ninguém. No mês que Dedé nasceu, quando correu a notícia do jeito dele, eu disse em casa, baixinho, pra minha mulher só: é melhor <ruby>Deus<rt>†</rt></ruby> levar logo, pra não penar nem fazer penar. E quando ela foi levar o que se leva numa hora dessas, mandei dizer que eu ia depois. Fui depois de três semanas. Deu quatro anos. Nunca contei a Firmino. Fui pagando <ruby>calado<rt>┌─</rt></ruby>.
 
-Júnior fincou a enxada e se apoiou ⟨┌─⟩.
+Júnior fincou a enxada e se <ruby>apoiou<rt>┌─</rt></ruby>.
 
-— Tu ouvisse o padre, na casa? Depois do rosário ⟨⚜⟩.
+— Tu ouvisse o padre, na casa? Depois do <ruby>rosário<rt>⚜</rt></ruby>.
 
 — Mais ou menos. O que tem?
 
-— Pois eu também não esqueço. Firmino nem pisa mais em missa, tu sabe. Bina também não. Iam antigamente, no tempo do pai. E o padre foi lá assim mesmo, rezou o rosário ⟨⚜⟩ com o povo, e no fim chegou perto da família e contou a história da mulher estrangeira. A que pediu pela filha doente, e o Cristo ⟨†⟩ respondeu: ≡ Não era certo tirar o pão dos filhos pra dar aos cachorros. E ela: sim, Senhor, mas até os cachorrinhos comem das migalhas que caem da mesa ⟨— Eita bicha ousada da p-⟩. E o Cristo ⟨†⟩ se venceu ⟨**≡ Ó mulher, grande é a tua fé!**⟩, e curou ela, e a filha. — Nessa ele apontou o queixo pro bicho, deitado na beira da cova, só esperando a vez. — Padre não conta história à toa. Aí eu venho do enterro, e esse aí!? Ah, não...: e o nome, ainda mais. Me diga se é coincidência.
+— Pois eu também não esqueço. Firmino nem pisa mais em missa, tu sabe. Bina também não. Iam antigamente, no tempo do pai. E o padre foi lá assim mesmo, rezou o <ruby>rosário<rt>⚜</rt></ruby> com o povo, e no fim chegou perto da família e contou a história da mulher estrangeira. A que pediu pela filha doente, e o <ruby>Cristo<rt>†</rt></ruby> respondeu: ≡ Não era certo tirar o pão dos filhos pra dar aos cachorros. E ela: sim, Senhor, mas até os cachorrinhos comem das migalhas que caem da <ruby>mesa<rt>— Eita bicha ousada da p-</rt></ruby>. E o <ruby>Cristo<rt>†</rt></ruby> se <ruby>venceu<rt><strong>≡ Ó mulher, grande é a tua fé!</strong></rt></ruby>, e curou ela, e a filha. — Nessa ele apontou o queixo pro bicho, deitado na beira da cova, só esperando a vez. — Padre não conta história à toa. Aí eu venho do enterro, e esse aí!? Ah, não...: e o nome, ainda mais. Me diga se é coincidência.
 
 — É. Realmente.
 
 — Todo mundo levou quatro anos perguntando como era que Firmino aguentava.
 
-Esperei o resto da pergunta. Não veio. Bateu a enxada mais umas duas ⟨┌─⟩ ou três vezes ⟨┌─⟩, e depois Júnior parou, olhando pro rumo do cemitério, que dali não se via.
+Esperei o resto da pergunta. Não veio. Bateu a enxada mais umas <ruby>duas<rt>┌─</rt></ruby> ou três <ruby>vezes<rt>┌─</rt></ruby>, e depois Júnior parou, olhando pro rumo do cemitério, que dali não se via.
 
 — Tu reparou que ele ficou lá, né? Em pé, de frente à parede.
 
@@ -156,20 +156,20 @@ Esperei o resto da pergunta. Não veio. Bateu a enxada mais umas duas ⟨┌─�
 
 Deitei Migalha no fundo. Fomos chegando a terra com a mão, devagarinho — o cabra bater a enxada em cima de bicho recém-morto parece desfeita. No meio Júnior parou, com a mão segurando cheia de terra.
 
-— Isso é assim mesmo, compadre. ⟨Quando falou, a voz⟩ Não tem conta que feche. ⟨já era outra, de consolar.⟩
+— Isso é assim mesmo, <ruby>compadre.<rt>Quando falou, a voz</rt></ruby> Não tem conta que <ruby>feche.<rt>já era outra, de consolar.</rt></ruby>
 
 — Sim.
 
-Fiquei calado, esperando ver quanto aquela voz aguentava ⟨Todo mundo tem a sua hora.⟩. Calou-se. Aí a mão dele abriu, a terra desceu pelos dedos, e falou o resto, baixinho:
+Fiquei calado, esperando ver quanto aquela voz <ruby>aguentava<rt>Todo mundo tem a sua hora.</rt></ruby>. Calou-se. Aí a mão dele abriu, a terra desceu pelos dedos, e falou o resto, baixinho:
 
 — Sim, Senhor, mas até os cachorrinhos...
 
-Então Júnior chorou. De repente e por atacado: o choro do enterro e o choro do menino, os dois, agachado na cova do cachorro, e na terra. Fui falar, mas aí chorei junto. A lágrima que de manhã não podia gastar, que era pra não molhar a asa do anjo, pronto ⟨*... e anjinho de asa molhada não voa...*⟩: nós gastamos ali. Cova de cachorro não tem mandamento.
+Então Júnior chorou. De repente e por atacado: o choro do enterro e o choro do menino, os dois, agachado na cova do cachorro, e na terra. Fui falar, mas aí chorei junto. A lágrima que de manhã não podia gastar, que era pra não molhar a asa do anjo, <ruby>pronto<rt><em>... e anjinho de asa molhada não voa...</em></rt></ruby>: nós gastamos ali. Cova de cachorro não tem mandamento.
 
-E por cima ajeitamos um bolo de pedras ⟨.:.⟩, por conta de animal desenterrador. Júnior pegou e quebrou um galho seco e espetou na cabeceira. Como se fosse a cruz ⟨†⟩. E está certo. Cachorro também é criatura de Deus ⟨†⟩.
+E por cima ajeitamos um bolo de <ruby>pedras<rt>.:.</rt></ruby>, por conta de animal desenterrador. Júnior pegou e quebrou um galho seco e espetou na cabeceira. Como se fosse a <ruby>cruz<rt>†</rt></ruby>. E está certo. Cachorro também é criatura de <ruby>Deus<rt>†</rt></ruby>.
 
-Na descida bateu o sino a Ave-Maria ⟨⚜⟩. Amanhã tornavam os coveiros ao cemitério, pra passar a massa fina e pintar a parede de branco de novo. E nós dois combinamos de passar na casa de Firmino, e levar um queijo, e ficar por lá, sem assunto, de suporte.
+Na descida bateu o sino a <ruby>Ave-Maria<rt>⚜</rt></ruby>. Amanhã tornavam os coveiros ao cemitério, pra passar a massa fina e pintar a parede de branco de novo. E nós dois combinamos de passar na casa de Firmino, e levar um queijo, e ficar por lá, sem assunto, de suporte.
 
 Cada um foi pro seu canto. E fiquei pensando.
 
-Sucedeu, nessa mesma noite, que, estando minha mulher já deitada, vencida do sono, cansada do dia dos outros, e estando eu ainda acordado, rodando na cama sem achar posição, me levantei e fui pra calçada fumar um cigarro. Não me lembro de ter riscado o fósforo; o cigarro já estava aceso, e não diminuía. E foi na segunda tragada que eu vi ⟨**≡ Vem.**⟩: os dois vinham descendo a rua, correndo ⟨voavam⟩, o menino na frente — ele que nunca deu um passo — e o cachorro na perna dele, sem arrasto, sem risco nenhum na areia. E corriam e pulavam, ligeiros, desempenados, eles na estreia do corpo. E vinham descendo, e a rua sobe. E passaram por mim, e não me olharam, e eu soube o nome dos dois sem que ninguém dissesse, e quis chamar e não tinha voz. Então ouvi, de dentro de casa, a voz do meu avô, mole de sono, chamando: vem, menino, ⟨**≡ Vem.**⟩ chega de andar na rua, ⟨**≡ Podes descansar comigo.**⟩ entra que a mesa já está posta. ⟨**≡ Assenta-te.**⟩ Pensei: estou andando dormindo, e isto é sonho. Porém em sonho ninguém corre (que a perna pesa, o chão puxa, e a gente quer correr e lá fica). E vi que não era sonho, tendo eles corrido; e vi que corriam e voavam ⟨palmas⟩; e vi que o Senhor ⟨†⟩ os chamara.
+Sucedeu, nessa mesma noite, que, estando minha mulher já deitada, vencida do sono, cansada do dia dos outros, e estando eu ainda acordado, rodando na cama sem achar posição, me levantei e fui pra calçada fumar um cigarro. Não me lembro de ter riscado o fósforo; o cigarro já estava aceso, e não diminuía. E foi na segunda tragada que eu <ruby>vi<rt><strong>≡ Vem.</strong></rt></ruby>: os dois vinham descendo a rua, <ruby>correndo<rt>voavam</rt></ruby>, o menino na frente — ele que nunca deu um passo — e o cachorro na perna dele, sem arrasto, sem risco nenhum na areia. E corriam e pulavam, ligeiros, desempenados, eles na estreia do corpo. E vinham descendo, e a rua sobe. E passaram por mim, e não me olharam, e eu soube o nome dos dois sem que ninguém dissesse, e quis chamar e não tinha voz. Então ouvi, de dentro de casa, a voz do meu avô, mole de sono, chamando: vem, <ruby>menino,<rt><strong>≡ Vem.</strong></rt></ruby> chega de andar na <ruby>rua,<rt><strong>≡ Podes descansar comigo.</strong></rt></ruby> entra que a mesa já está <ruby>posta.<rt><strong>≡ Assenta-te.</strong></rt></ruby> Pensei: estou andando dormindo, e isto é sonho. Porém em sonho ninguém corre (que a perna pesa, o chão puxa, e a gente quer correr e lá fica). E vi que não era sonho, tendo eles corrido; e vi que corriam e <ruby>voavam<rt>palmas</rt></ruby>; e vi que o <ruby>Senhor<rt>†</rt></ruby> os chamara.
