@@ -5,8 +5,8 @@ type: book
 authors:
   - family-names: "Menezes"
     given-names: "Guilherme"
-date-released: 2026-07-25
-version: "1.0.0"
-doi: "10.5281/zenodo.21766823"
-url: "https://doi.org/10.5281/zenodo.21766823"
+date-released: 2026-08-03
+version: "1.0.1"
+doi: "10.5281/zenodo.21766892"
+url: "https://doi.org/10.5281/zenodo.21766892"
 abstract: "Conto literário em edição digital com anotações ruby e microdiagramas tipográficos."
